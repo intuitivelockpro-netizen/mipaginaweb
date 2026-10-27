@@ -1,0 +1,31 @@
+#encabezado{
+    height: 150px;
+    background-color: darkmagenta;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 24px;
+    color: white;
+}
+#contenido{
+    height: 500px;
+    background-color: rgb(195, 175, 213);   
+}
+#contenido a{
+    text-decoration: none;
+    color: darkmagenta;
+    font-family: fantasy;
+    font-size: 14px;
+    background-color: rgb(254, 254, 254);
+    padding: 10px 12px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+}
+#footer{
+    height: 50px;
+    background-color: darkmagenta;
+    text-align: center;
+    color: white;
+    font-family: fantasy;
+    font-size: 20px;
+}
